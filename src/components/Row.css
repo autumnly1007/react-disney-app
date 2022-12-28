@@ -65,6 +65,7 @@
   overflow-x: scroll;
   padding: 20px 0 20px 20px;
   scroll-behavior: smooth;
+  cursor: pointer;
 }
 .row__posters::-webkit-scrollbar {
   display: none;
